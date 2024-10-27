@@ -1,0 +1,10 @@
+{
+	"PHP Debugging": {
+	  "prefix": "debug",
+	  "body": [
+		"echo \"<pre>\";print_r($${1});exit;"
+	  ],
+	  "description": "Quick PHP debugging with print_r"
+	}
+}
+  
